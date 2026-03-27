@@ -35,4 +35,3 @@ A professional E-commerce Backend application developed using **Java** and **Spr
 - `POST /api/users/register` - Create a new user.
 - `POST /api/products` - Add a new mobile product.
 - `POST /api/orders/place` - Place a new order and update stock.
--
